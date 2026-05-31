@@ -1,4 +1,28 @@
 <!-- ---
+name: Dummy Project
+tools: [Ignore me]
+image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+external_url: https://www.google.com
+--- -->
+
+
+------------------------------------------------
+
+
+<!-- ---
+name: The Fabulous
+tools: [Android, Material Design]
+image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg
+description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
+external_url: https://thefabulous.co/
+--- -->
+
+
+
+------------------------------------------------
+
+<!-- ---
 name: The Movies Project
 tools: [C#, XML, WPF]
 image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
