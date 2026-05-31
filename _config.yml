@@ -86,14 +86,14 @@ buymeacoffee:
 defaults:
   - scope:
       path: ""
-      type: "projects"
+      type: ""
     values:
-      layout: "page"
-  # - scope:
-  #     path: ""
-  #     type: "posts"
-  #   values:
-  #     comments: false                                   # Set to true to enable disqus comments
+      layout: ""
+  - scope:
+      path: ""
+      type: ""
+    values:
+      comments: false                                   # Set to true to enable disqus comments
 
 
 ### Exclude from processing ###
