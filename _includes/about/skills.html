@@ -13,13 +13,14 @@
     </div>
   </div>
 
-  <div class="progress mb-4">
-    <div
-      class="progress-bar"
-      role="progressbar"
-      style="width: {{ skill.percentage }}%; background-color: {{ skill.color }};"
-      aria-valuenow="{{ skill.percentage }}"
-      aria-valuemin="0"
+  <div class="progress mb-4 bg-themed" style="height: 8px;">
+    <div 
+      class="progress-bar bg-danger wow slideInLeft animated" 
+      data-wow-delay="0.05s" 
+      role="progressbar" 
+      style="width: {{ skill.percentage }}%;" 
+      aria-valuenow="{{ skill.percentage }}" 
+      aria-valuemin="0" 
       aria-valuemax="100">
     </div>
   </div>
