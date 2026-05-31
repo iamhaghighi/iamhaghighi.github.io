@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:<br><br>
-a 21-year-old Flutter programmer actively working to advance my programming skills and seeking opportunities for professional growth.
+a 21-year-old golang developer
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
