@@ -1,6 +1,6 @@
-- name: Go
+- name: Golang
   percentage: 50
-  color: info
+  color: "#00ADD8"
 
 # - name: Flutter
 #   percentage: 53
