@@ -23,12 +23,12 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Mohammad Haghighi
-  image             : https://s30.picofile.com/file/8469285018/profile_pic_11_.png
+  image             : https://cdn.imgurl.ir/uploads/n16079_image-4.jpg
   linkedin          : iamhaghighi
-  instagram         : mhmd.haghighi
+  # instagram         : mhmd.haghighi
   telegram          : iamhaghighi
   github            : iamhaghighi
-  twitter           : iamhaghighi
+  # twitter           : iamhaghighi
   email             : iamhaghighi@gmail.com
 # behance           : iamhaghighi
 # dribbble          : your_username
@@ -73,7 +73,7 @@ analytics:
 # See https://www.buymeacoffee.com/
 buymeacoffee:
   enabled: false
-  username: itsmhmd
+  username: iamhaghighi
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
