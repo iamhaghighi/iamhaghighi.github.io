@@ -1,7 +1,9 @@
 ### Site Settings ###
 title               : Mohammad Haghighi
-description         : >-
-                      Golang backend Developer
+# >- means every new line convert to space
+# | means if you wanna to next line
+description         : |
+                      Golang backend Developer.
                       I turn tea 🍵 into code
 
 
