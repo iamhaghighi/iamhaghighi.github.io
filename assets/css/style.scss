@@ -5,7 +5,15 @@
 }
 
 .text-muted {
-    text-align: center;
+    text-align: center !important;
+}
+
+.progress-bar.photoshop {
+  background-color: #31A8FF !important;
+}
+
+.progress-bar.illustrator {
+  background-color: #FF9A00 !important;
 }
 
 @import "portfolYOU";
