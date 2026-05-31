@@ -1,7 +1,7 @@
 - name: Adobe Photoshop
   percentage: 80
-  color: danger
+  color: "#31A8FF"
 
 - name: Adobe Illustrator
   percentage: 40
-  color: success
+  color: "#FF9A00"
