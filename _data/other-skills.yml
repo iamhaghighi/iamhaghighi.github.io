@@ -1,7 +1,7 @@
 - name: Adobe Photoshop
   percentage: 80
-  color: "#001E36"
+  color: "#001e36" # <- tire - roushan -> #31a8ff 
 
 - name: Adobe Illustrator
   percentage: 40
-  color: "#330000"
+  color: "#281300"  # <- tire - roushan -> #e26c00
