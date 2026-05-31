@@ -1,7 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
+name: Push Notification
+tools: [Golang, Interface]
 image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/YoussefRaafatNasry
+description: A simple Go practice project that sends notifications (SMS, email, push) when run.
+external_url: https://github.com/iamhaghighi/Push_Notification_Cli
 ---

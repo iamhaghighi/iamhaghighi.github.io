@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Rent Room Mini Project Cli
+tools: [Go, Function]
+image:
+description: A command-line room rental management system – written in Go
+external_url: https://github.com/iamhaghighi/Rent-Room-Mini-Project-CLI
 ---
